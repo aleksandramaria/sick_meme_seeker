@@ -1,0 +1,22 @@
+{
+  "name": "sick_meme_seeker",
+  "version": "1.0.0",
+  "description": "An app presenting popular memes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write --ignore-unknown -c ./",
+    "format:check": "prettier --check -c ./ --ignore-unknown"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksandramaria/sick_meme_seeker.git"
+  },
+  "author": "Aleksandra Ksiazek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksandramaria/sick_meme_seeker/issues"
+  },
+  "dependencies": {
+    "prettier": "^2.8.1"
+  }
+}
